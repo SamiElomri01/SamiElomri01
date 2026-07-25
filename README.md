@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**SamiElomri01/SamiElomri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Automation AI : 
+    https://github.com/SamiElomri01/AI-Email-Assistant-for-Small-Businesses
 
-Here are some ideas to get you started:
+🔌 IoT / Systèmes Embarqués : 
+    https://github.com/SamiElomri01/Smart-Waste-Management-IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 DEV WEB/mobile :
+    https://github.com/SamiElomri01/companie-ai-web
+    https://github.com/SamiElomri01/stage-time
+    https://github.com/SamiElomri01/GestionLab
+        
+📱 Applications :
+    https://github.com/SamiElomri01/SpendTrack
