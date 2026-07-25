@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-🤖 Automation AI : 
+🤖 Automation AI : <br>
 https://github.com/SamiElomri01/AI-Email-Assistant-for-Small-Businesses
 
-🔌 IoT / Systèmes Embarqués : 
+🔌 IoT / Systèmes Embarqués : <br>
 https://github.com/SamiElomri01/Smart-Waste-Management-IoT
 
-💻 DEV WEB/mobile :
-https://github.com/SamiElomri01/companie-ai-web
-https://github.com/SamiElomri01/stage-time
-https://github.com/SamiElomri01/GestionLab
+💻 DEV WEB/mobile :<br>
+https://github.com/SamiElomri01/companie-ai-web<br>
+https://github.com/SamiElomri01/stage-time<br>
+https://github.com/SamiElomri01/GestionLab<br>
         
-📱 Applications :
+📱 Applications :<br>
 https://github.com/SamiElomri01/SpendTrack
